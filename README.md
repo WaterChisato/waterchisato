@@ -5,5 +5,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=waterchisato)](https://github.com/pythonsir/github-readme-stats)
 
 ### Birthday-live 数据统计
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=birthday-live)](https://github.com/pythonsir/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Birthday-Live)](https://github.com/pythonsir/github-readme-stats)
 
